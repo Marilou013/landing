@@ -1,0 +1,22 @@
+.footer {
+  background-color: #2B2B2B;
+  text-align: center;
+  padding: 60px;
+}
+
+.footer p {
+  color: #7F8487;
+}
+.fa-heart {
+  color: red;
+}
+
+.links a {
+  text-decoration: none;
+  color: #00C897;
+  display:inline-block
+}
+
+.links p {
+ font-size: 30px;
+}
